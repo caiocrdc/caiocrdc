@@ -9,7 +9,7 @@
 
 ### 🧰 Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,typescript,nodejs,prisma,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,prisma,mysql,git,github,vscode" />
 </p>
 
 ---
