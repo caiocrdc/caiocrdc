@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o <span style="color:#00BFFF;">Caio</span>!</h1>
-<h3 align="center">💻 Aspirante a desenvolvedor e criador da <span style="color:#32CD32;">Thinker</span></h3>
+<h3 align="center">💻 Aspirante a desenvolvedor e criador da </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Criador+da+Thinker;Apaixonado+por+tecnologia+💡" />
