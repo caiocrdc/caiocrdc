@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=169&section=header&reversal=false&text=%F0%9F%91%8B%F0%9F%8F%BDHello%20World!%20Me%20chamo%20Caio!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=13&descAlign=90&descAlignY=95&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=169&section=header&reversal=false&text=%F0%9F%91%8B%F0%9F%8F%BDHello%20World!%20Me%20chamo%20Caio!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=13&descAlign=90&descAlignY=95&textBg=false&color=68BBD9"  />
 </div>
 
 ###
@@ -8,15 +8,9 @@
 
 ###
 
-<img align="right" height="235" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">Sou Caio R. Costa e tenho 18 anos, sou um desenvolvedor júnior  <b>Full Stack<b> com foco em <b>desenvolvimento web<b>.<br><br>apaixonado pela tcnologia, acredito que aprimorar meus conhecimentos é o melhor caminho para conseguir criar soluções reais.<br><br>Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, ofereçam experiências mais simples e eficientes, e acredito que um bom código nasce da criatividade e vontade de resolver um problema.<br><br>📚 Atualmente estou cursando desenvolvimento de sistemas na EEEP Jaime Cunha Rebouças, atuando na AltSoft e aprimorando minhas habilidades em React e Node.<br><br>🚀 Meu objetivo é atuar como desenvolvedor full stack e contribuir para projetos de impacto real.</p>
 
 ###
-
-<h5 align="left">Sou Caio R. Costa e tenho 18 anos, sou um desenvolvedor júnior  <b>Full Stack<b> com foco em <b>desenvolvimento web<b>.<br>apaixonado pela tcnologia, acredito que aprimorar meus conhecimentos é o melhor caminho para conseguir criar soluções reais.<br><br>Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, ofereçam experiências mais simples e eficientes, e acredito que um bom código nasce da criatividade e vontade de resolver um problema.<br><br>📚 Atualmente estou cursando desenvolvimento de sistemas na EEEP Jaime Cunha Rebouças, atuando na AltSoft e aprimorando minhas habilidades em React e Node.<br><br>🚀 Meu objetivo é atuar como desenvolvedor full stack e contribuir para projetos de impacto real.</h5>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/caiocrdc/caiocrdc/output/snake.svg" alt="Snake animation" />
 
