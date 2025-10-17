@@ -1,41 +1,74 @@
-<h1 align="center">👋 Olá, eu sou o <span style="color:#00BFFF;">Caio</span>!</h1>
-<h3 align="center">💻 Aspirante a desenvolvedor e criador da </h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=169&section=header&reversal=false&text=%F0%9F%91%8B%F0%9F%8F%BDHello%20World!%20Me%20chamo%20Caio!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=13&descAlign=90&descAlignY=95&textBg=false&theme=tokyonight"  />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Criador+da+Thinker;Apaixonado+por+tecnologia+💡" />
-</p>
+###
 
----
+<h2 align="left">🧑‍💻 Sobre mim</h2>
 
-### 🧰 Tecnologias & Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,prisma,mysql,git,github,vscode" />
-</p>
+###
 
----
+<img align="right" height="235" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiorc&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiorc&theme=tokyonight&hide_border=true" />
-</p>
+###
 
----
+<h5 align="left">Sou Caio R. Costa e tenho 18 anos, sou um desenvolvedor júnior  <b>Full Stack<b> com foco em <b>desenvolvimento web<b>.<br>apaixonado pela tcnologia, acredito que aprimorar meus conhecimentos é o melhor caminho para conseguir criar soluções reais.<br><br>Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, ofereçam experiências mais simples e eficientes, e acredito que um bom código nasce da criatividade e vontade de resolver um problema.<br><br>📚 Atualmente estou cursando desenvolvimento de sistemas na EEEP Jaime Cunha Rebouças, atuando na AltSoft e aprimorando minhas habilidades em React e Node.<br><br>🚀 Meu objetivo é atuar como desenvolvedor full stack e contribuir para projetos de impacto real.</h5>
 
-### 🚀 Sobre mim
-- 💡 Estudante e desenvolvedor apaixonado por tecnologia  
-- 🚀 Criador da **Thinker**, uma plataforma interativa de aprendizado  
-- 🎸 Curto café, rock e desafios de código  
-- 💬 Sempre aberto a aprender e colaborar  
+###
 
----
+<br clear="both">
 
-### 📫 Contato
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://raw.githubusercontent.com/caiocrdc/caiocrdc/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-![Snake animation](https://github.com/caiorc/caiorc/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiocrdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocrdc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2&custom_title=Linguagens%20mais%20utilizadas" height="160" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">🧰 Tecnologias e ferramentas</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="48" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="48" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">📞 Contato</h2>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
