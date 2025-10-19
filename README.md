@@ -12,16 +12,16 @@
 
 ###
 
-<p align="left" margin-left="10">Sou Caio R. Costa e tenho 18 anos, sou um desenvolvedor júnior  <b>Full Stack</b> com foco em <b>desenvolvimento web</b>.<br>Sou apaixonado pela tcnologia. Acredito que aprimorar meus conhecimentos é o melhor caminho para conseguir criar soluções reais.<br><br>Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, ofereçam experiências mais simples e eficientes, e acredito que um bom código nasce da criatividade e vontade de resolver um problema.<br></br>📚 Atualmente estou cursando desenvolvimento de sistemas na EEEP Jaime Cunha Rebouças, atuando na AltSoft e aprimorando minhas habilidades em React e Node.<br><br>🚀 Meu objetivo é atuar como desenvolvedor full stack e contribuir para projetos de impacto real.</p>
-
+<p align="left" margin-left="10">Sou Caio R. Costa e tenho 18 anos, sou um desenvolvedor júnior  <b>Full Stack</b> com foco em <b>desenvolvimento web</b>.<br>Sou apaixonado pela tcnologia. Acredito que aprimorar meus conhecimentos é o melhor caminho para conseguir criar soluções reais.<br>Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, ofereçam experiências mais simples e eficientes, e acredito que um bom código nasce da criatividade e vontade de resolver um problema.<br>📚 Atualmente estou cursando desenvolvimento de sistemas na EEEP Jaime Cunha Rebouças, atuando na AltSoft e aprimorando minhas habilidades em React e Node.<br>🚀 Meu objetivo é atuar como desenvolvedor full stack e contribuir para projetos de impacto real.</p>
+<br>
+<br>
 ###
 
 <h2>🐍 Minha jornada de commits</h2>
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/caiocrc/caiocrc/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://raw.githubusercontent.com/caiocrc/caiocrc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/caiocrdc/caiocrdc/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -29,7 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=caiocrdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocrdc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2&custom_title=Linguagens%20mais%20utilizadas" height="160" alt="languages graph"  />
 </div>
-
+<br>
+<br>
 ###
 
 <h2 align="left">🧰 Tecnologias e ferramentas</h2>
