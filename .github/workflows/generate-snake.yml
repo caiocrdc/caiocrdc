@@ -2,8 +2,8 @@ name: 🐍 Gerar animação da cobrinha azul
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todos os dias à meia-noite
-  workflow_dispatch:     # Permite rodar manualmente
+    - cron: "0 0 * * *"  # Gera diariamente à meia-noite
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Dá permissão de escrita para o bot
+      contents: write  # Necessário para publicar no branch output
 
     steps:
       - name: Clonar repositório
@@ -26,13 +26,12 @@ jobs:
           github_user_name: caiocrdc
           outputs: dist/snake.svg
           palette: "github-dark"  
-          color_snake: "68BBD9"  # azul suave da cobrinha
-          color_dots: "2d333b,3a6ea5,4ea3e0,68BBD9"  
-          # tons:
-          # - 2d333b → fundo escuro (cinza padrão GitHub Dark)
-          # - 3a6ea5 → azul escuro (poucos commits)
-          # - 4ea3e0 → azul intermediário
-          # - 68BBD9 → azul claro (muitos commits)
+          color_snake: "68BBD9" # Azul da cobrinha
+          color_dots: "30363d,244e75,337ab7,68BBD9"
+          # 30363d → cinza GitHub Dark (sem commits)
+          # 244e75 → azul escuro (poucos commits)
+          # 337ab7 → azul médio (commits regulares)
+          # 68BBD9 → azul claro (muitos commits)
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -41,3 +40,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
