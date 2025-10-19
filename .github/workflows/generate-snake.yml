@@ -24,7 +24,7 @@ jobs:
           outputs: dist/snake.svg
           palette: "github-dark"  
           color_snake: "68BBD9"    
-          color_dots: "3b3b3b,8dd3ee,68BBD9,ffffff"  
+          color_dots: "3b3b3b,8dd3ee,68BBD9,151B23"  
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
