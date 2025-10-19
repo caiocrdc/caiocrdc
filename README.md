@@ -20,17 +20,10 @@
 
 ### 🐍 Minha jornada de commits
 
-_Eu acredito que o aprendizado é constante — cada commit é um pequeno passo pra frente._
-
 <br>
 
 ![Snake animation](https://raw.githubusercontent.com/caiocrc/caiocrc/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/caiocrc/caiocrc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<br>
-<br>
-
-✨ _"Código limpo, mente clara e café forte."_ ☕
 
 </div>
 ###
