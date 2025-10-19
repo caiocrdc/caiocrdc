@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sou Caio R. Costa e tenho 18 anos, sou um desenvolvedor júnior  <b>Full Stack</b> com foco em <b>desenvolvimento web</b>.<br>Sou apaixonado pela tcnologia. Acredito que aprimorar meus conhecimentos é o melhor caminho para conseguir criar soluções reais.<br><br>Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, ofereçam experiências mais simples e eficientes, e acredito que um bom código nasce da criatividade e vontade de resolver um problema.<br><br>📚 Atualmente estou cursando desenvolvimento de sistemas na EEEP Jaime Cunha Rebouças, atuando na AltSoft e aprimorando minhas habilidades em React e Node.<br><br>🚀 Meu objetivo é atuar como desenvolvedor full stack e contribuir para projetos de impacto real.</p>
+<p align="left" margin-left="10">Sou Caio R. Costa e tenho 18 anos, sou um desenvolvedor júnior  <b>Full Stack</b> com foco em <b>desenvolvimento web</b>.<br>Sou apaixonado pela tcnologia. Acredito que aprimorar meus conhecimentos é o melhor caminho para conseguir criar soluções reais.<br><br>📚 Atualmente estou cursando desenvolvimento de sistemas na EEEP Jaime Cunha Rebouças, atuando na AltSoft e aprimorando minhas habilidades em React e Node.<br><br>🚀 Meu objetivo é atuar como desenvolvedor full stack e contribuir para projetos de impacto real.</p>
 
 ###
 
