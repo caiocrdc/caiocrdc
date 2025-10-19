@@ -16,16 +16,13 @@
 
 ###
 
-<div align="center">
+<h2>🐍 Minha jornada de commits</h2>
 
-### 🐍 Minha jornada de commits
-
-<br>
+###
 
 ![Snake animation](https://raw.githubusercontent.com/caiocrc/caiocrc/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/caiocrc/caiocrc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-</div>
 ###
 
 <div align="left">
