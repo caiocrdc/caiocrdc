@@ -2,15 +2,14 @@ name: 🐍 Gerar animação da cobrinha azul
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todos os dias à meia-noite
-  workflow_dispatch:  # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
   generate:
-    name: Gerar e publicar animação
     runs-on: ubuntu-latest
 
     steps:
@@ -29,7 +28,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
+        env:                    # <-- AQUI fica o único env
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           target_branch: output
           build_dir: dist
