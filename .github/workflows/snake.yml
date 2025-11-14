@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Clonar repositório
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
       - name: Gerar a cobrinha
         uses: Platane/snk@v3
