@@ -23,19 +23,6 @@ Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, o
 <br><br>
 ###
 
-<h2 align="left">📊 Meus gráficos do GitHub</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiocrdc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocrdc&layout=compact&langs_count=6&theme=react&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas" height="160" alt="Linguagens mais usadas" />
-</div>
-
-<br><br>
-
-###
-
 <h2 align="left">🧰 Tecnologias e ferramentas</h2>
 
 ###
