@@ -21,17 +21,6 @@ Gosto de criar projetos que facilitem o aprendizado, melhorem a produtividade, o
 </p>
 
 <br><br>
-
-###
-
-<h2 align="left">🐍 Minha jornada de commits</h2>
-
-###
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/caiocrdc/caiocrdc/output/snake.svg" alt="Snake animation" />
-</p>
-
 ###
 
 <h2 align="left">📊 Meus gráficos do GitHub</h2>
