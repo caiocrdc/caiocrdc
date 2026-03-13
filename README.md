@@ -1,10 +1,10 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=%F0%9F%91%8B%F0%9F%8F%BDHello%20World!%20Me%20chamo%20Caio!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=68BBD9&strokeWidth=0.6&animation=fadeIn&color=68BBD9" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=%F0%9F%91%8B%F0%9F%8F%BDHello%20World!%20My%20name%20is%20Caio!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=68BBD9&strokeWidth=0.6&animation=fadeIn&color=68BBD9" />
 </div>
 
 ###
 
-<h2 align="left">🧑‍💻 Sobre mim</h2>
+<h2 align="left">🧑‍💻 About me</h2>
 
 ###
 
